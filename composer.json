@@ -1,0 +1,20 @@
+{
+    "name": "faridamenisy/displayer",
+    "description": "displaying with a view",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "farida menisy",
+            "email": "farida.menisy@Gmail.com"
+        }
+    ],
+    "require": {
+ "php": ">=5.5.9"
+"illuminate/support": ">=5.0,<5.6"
+},
+"autoload":{
+ "psr-4": {
+   "faridamenisy\\displayer\\" : "src"
+}
+}
