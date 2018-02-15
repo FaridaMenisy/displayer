@@ -17,8 +17,8 @@
 }
 ],
 
- "autoload":{
+ "autoload":[
  "psr-4": {
-   "faridamenisy\\displayer\\" : "src"
+   "FaridaMenisy\\displayer\\" : "src"
 }
-}
+]
